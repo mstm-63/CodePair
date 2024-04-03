@@ -1,5 +1,5 @@
-# Code Pair
-Code Pair is a platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. This application is based on the concept of operational transformation which forms the basis for a shared editor. Video calling is also provided within this application. It has some similar features as provided by [HackerRank's CodePair](https://www.hackerrank.com/products/codepair/) platform.
+# Peer Share
+Peer Share is a code pair platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. This application is based on the concept of operational transformation which forms the basis for a shared editor. Video calling is also provided within this application. It has some similar features as provided by [HackerRank's CodePair](https://www.hackerrank.com/products/codepair/) platform.
 
 ### Demo link: [https://codepair.netlify.app/](https://codepair.netlify.app/)
 
@@ -10,7 +10,7 @@ Code Pair is a platform where users can share an interactive editor and write co
 ### Backend:
 `cd editor-backend && npm run dev`
 
-## How real time editing works:
+## How real time editing works:z
 Real time editing is a two-way binding between server and client. This means there is a need of listener on both client side as well as server side. This might look very simple(Make a web socket listener and update the document). But, it is not the case. What happens when both the users edited the document at the same time? In that case, there is a possibility of storing ambiguous document. To solve this issue, we can use Operational Transformation.
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Operational_transformation),
