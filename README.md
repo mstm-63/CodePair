@@ -4,7 +4,7 @@ Peer Share is a code pair platform where users can share an interactive editor a
 ### Demo link: [https://codepair.netlify.app/](https://codepair.netlify.app/)
 
 ### Demo Image: 
-[![Image not available]([https://img.youtube.com/vi/jDBPh7Id1TU/hqdefault.jpg](https://drive.google.com/file/d/1luNDIkzAkkBgGor_osn-OLZFXLb2NOyv/view?usp=sharing))]
+[![Image not available]([https://drive.google.com/file/d/1luNDIkzAkkBgGor_osn-OLZFXLb2NOyv/view?usp=sharing](https://photos.google.com/photo/AF1QipOiq0rZaz2SWC69DokI9HkxDfZzovduLLT3vEPF))]
 
 
 ## Run Locally
